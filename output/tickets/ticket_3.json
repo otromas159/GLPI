@@ -1,0 +1,12 @@
+{
+    "id": 3,
+    "titulo": "Error al visualizar y descargar pedidos de Compra ",
+    "descripcion": "Buen Día:\nTenemos inconveniente para visualizar y poder descargar los Pedidos de Compra, por ende no hemos podido remitir ningún pedido a proveedores ni internamente.\nA continuación envío imagen del error que nos arroja.",
+    "seguimientos": [
+        "Paola, el problema fue escalado a la consultoría con el numero de Issue  5630",
+        "Microsoft respondió y se están realizando las acciones sugeridas, se estará informando los resultados",
+        "Paola, el problema fue resuelto, por favor revisar y confirmar."
+    ],
+    "solucion": "",
+    "documento": "TICKET #3\n\nTÍTULO\nError al visualizar y descargar pedidos de Compra \n\nDESCRIPCIÓN\nBuen Día:\nTenemos inconveniente para visualizar y poder descargar los Pedidos de Compra, por ende no hemos podido remitir ningún pedido a proveedores ni internamente.\nA continuación envío imagen del error que nos arroja.\n\nSEGUIMIENTOS\n1. Paola, el problema fue escalado a la consultoría con el numero de Issue  5630\n2. Microsoft respondió y se están realizando las acciones sugeridas, se estará informando los resultados\n3. Paola, el problema fue resuelto, por favor revisar y confirmar.\n\nSOLUCIÓN\nSin solución registrada"
+}

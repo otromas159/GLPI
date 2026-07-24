@@ -1,0 +1,10 @@
+{
+    "id": 9,
+    "titulo": "FALLA PEDIDO DE COMPRA ",
+    "descripcion": "por favor verificar en los pedidos de compra la opción terceros Colombia, no está actualizando de acuerdo al Nit, o Cédula, debería aparecer el nombre del contratista y aparece como no predeterminado.\nadjunto archivo de error",
+    "seguimientos": [
+        "Se escala el caso al área de Roles y permisos."
+    ],
+    "solucion": "Se eliminó la cuenta y se volvió a crear ya que no estaba tomando de manera correcta los permisos, por favor verificar.",
+    "documento": "TICKET #9\n\nTÍTULO\nFALLA PEDIDO DE COMPRA \n\nDESCRIPCIÓN\npor favor verificar en los pedidos de compra la opción terceros Colombia, no está actualizando de acuerdo al Nit, o Cédula, debería aparecer el nombre del contratista y aparece como no predeterminado.\nadjunto archivo de error\n\nSEGUIMIENTOS\n1. Se escala el caso al área de Roles y permisos.\n\nSOLUCIÓN\nSe eliminó la cuenta y se volvió a crear ya que no estaba tomando de manera correcta los permisos, por favor verificar."
+}

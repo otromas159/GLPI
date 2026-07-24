@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "titulo": "Duplicidad pedidos planificados manuales",
+    "descripcion": "Al crear pedidos planificados manuales el sistema esta trayendo una línea adicional a la creada originalmente \"Duplicando automáticamente\"\nPor favor me ayudas,",
+    "seguimientos": [
+        "Se escalo a la consultoría,  con el numero de Issues 5628",
+        "En la reunión programada el 30 de SEP consultoría explica la razón por la cual se duplican las líneas, el usuario esta de acuerdo con la explicación.\nComo lo revisamos en la reunión del día de hoy, el sistema no es que este duplicando los pedidos planificados.\nEl sistema lo que esta realizando es que al momento de crear el pedido planificado, valida la configuración de coberturas que tiene ese articulo.\nEjemplo:\nSe creo el pedido planificado del articulo 000004 con una cantidad de 3.500 unidades para la fecha del 11/10/2021"
+    ],
+    "solucion": "",
+    "documento": "TICKET #2\n\nTÍTULO\nDuplicidad pedidos planificados manuales\n\nDESCRIPCIÓN\nAl crear pedidos planificados manuales el sistema esta trayendo una línea adicional a la creada originalmente \"Duplicando automáticamente\"\nPor favor me ayudas,\n\nSEGUIMIENTOS\n1. Se escalo a la consultoría,  con el numero de Issues 5628\n2. En la reunión programada el 30 de SEP consultoría explica la razón por la cual se duplican las líneas, el usuario esta de acuerdo con la explicación.\nComo lo revisamos en la reunión del día de hoy, el sistema no es que este duplicando los pedidos planificados.\nEl sistema lo que esta realizando es que al momento de crear el pedido planificado, valida la configuración de coberturas que tiene ese articulo.\nEjemplo:\nSe creo el pedido planificado del articulo 000004 con una cantidad de 3.500 unidades para la fecha del 11/10/2021\n\nSOLUCIÓN\nSin solución registrada"
+}

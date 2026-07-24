@@ -1,0 +1,11 @@
+{
+    "id": 19,
+    "titulo": "Actualización DP quito el acceso a Ingresar solicitudes.",
+    "descripcion": "Daniel:\nAntes de subir el DP esta mañana, tenia el acceso normal a crear una nueva solicitud como muestra el pantallazo, hice la solicitud de compra 101 de prueba,  luego de subir el DP, cuando fui a modificarla ya no tenia los accesos.  Le consulte a Emilse y ella me dice que no toco nada de mis permisos.",
+    "seguimientos": [
+        "El caso fue escalado a la persona encargada de Roles y permisos.",
+        "El error no se volvio a presentar.  Se cierra el caso"
+    ],
+    "solucion": "Se verificaron los permisos y se encuentran bien, el inconveniente se presentó con una solicitud en particular, por tanto no es un tema de permisos.",
+    "documento": "TICKET #19\n\nTÍTULO\nActualización DP quito el acceso a Ingresar solicitudes.\n\nDESCRIPCIÓN\nDaniel:\nAntes de subir el DP esta mañana, tenia el acceso normal a crear una nueva solicitud como muestra el pantallazo, hice la solicitud de compra 101 de prueba,  luego de subir el DP, cuando fui a modificarla ya no tenia los accesos.  Le consulte a Emilse y ella me dice que no toco nada de mis permisos.\n\nSEGUIMIENTOS\n1. El caso fue escalado a la persona encargada de Roles y permisos.\n2. El error no se volvio a presentar.  Se cierra el caso\n\nSOLUCIÓN\nSe verificaron los permisos y se encuentran bien, el inconveniente se presentó con una solicitud en particular, por tanto no es un tema de permisos."
+}

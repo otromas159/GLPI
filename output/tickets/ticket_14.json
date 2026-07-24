@@ -1,0 +1,14 @@
+{
+    "id": 14,
+    "titulo": "LENTITUD EN EL CARGUE DE INFORMACIÓN DE LOS REPORTES",
+    "descripcion": "Buena tarde Daniel, se ha evidenciado demasiada lentitud en el cargue de información de los reportes de inventarios, toda la información sube continuamente en Dynamics pero en el reporte no, se consultó el reporte por primera vez a las 11:00 am y siendo ahora las 4:50 pm esta información no se ha actualizado, adjunto seguimiento.\nComo se puede evidenciar, en el reporte aparece como si no se hubiera ingresado nada el día de hoy, y esta información es vital para hacerle continuo seguimiento a los inventarios de las distintas ubicaciones, quedo atento.\nCordialmente,\nDavid V.",
+    "seguimientos": [
+        "Se escala el caso al área de Reportes.",
+        "La información de los reportes tiene uno tiempos de sincronización de datos, estos tiempos se definieron con el líder de producción e inventarios para que por favor lo tengas presente.",
+        "La sincronización de este reporte es cada 40 minutos iniciando desde las 6:am a las 10 Pm, mas sin embargo vamos a revisar que puedes estar pasando, lo mismo en los tiempos de respuesta.",
+        "Alix, que podemos hacer con este caso?",
+        "El usuario me confirma por Teams que el reporte ya funciona correctamente."
+    ],
+    "solucion": "",
+    "documento": "TICKET #14\n\nTÍTULO\nLENTITUD EN EL CARGUE DE INFORMACIÓN DE LOS REPORTES\n\nDESCRIPCIÓN\nBuena tarde Daniel, se ha evidenciado demasiada lentitud en el cargue de información de los reportes de inventarios, toda la información sube continuamente en Dynamics pero en el reporte no, se consultó el reporte por primera vez a las 11:00 am y siendo ahora las 4:50 pm esta información no se ha actualizado, adjunto seguimiento.\nComo se puede evidenciar, en el reporte aparece como si no se hubiera ingresado nada el día de hoy, y esta información es vital para hacerle continuo seguimiento a los inventarios de las distintas ubicaciones, quedo atento.\nCordialmente,\nDavid V.\n\nSEGUIMIENTOS\n1. Se escala el caso al área de Reportes.\n2. La información de los reportes tiene uno tiempos de sincronización de datos, estos tiempos se definieron con el líder de producción e inventarios para que por favor lo tengas presente.\n3. La sincronización de este reporte es cada 40 minutos iniciando desde las 6:am a las 10 Pm, mas sin embargo vamos a revisar que puedes estar pasando, lo mismo en los tiempos de respuesta.\n4. Alix, que podemos hacer con este caso?\n5. El usuario me confirma por Teams que el reporte ya funciona correctamente.\n\nSOLUCIÓN\nSin solución registrada"
+}

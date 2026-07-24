@@ -1,0 +1,13 @@
+{
+    "id": 10,
+    "titulo": "Inconvenientes con la interface Riverdale",
+    "descripcion": "La interface no está funcionando correctamente .\nLas ordenes no están trayendo los almacenes completos, unas líneas si y otras no\nLo mismo sucede con los precios algunos hace la conversión y otro no\nSegún reunión que acaba de tener Daniel Plazas, Katerine Herrera , Heiner Urrego,  Diego Torres y Rocio Diaz,  la respuesta de la consultoría es que están revisando porque no saben porque pasa esto.\nY toda esta información lo debemos solucionar de forma manual, lo cual incrementa mas aun nuestra labor que estamos repitiendo .\nSi me pudieran ayudar con que esto quede solucionado lo mas pronto posible les agradecería.\nNosotros continuaremos con el ingreso y los ajustes de forma manual  pero por favor solicito si debemos parar nos informen , porque volver a ingresar todo nuevamente seria fatal.",
+    "seguimientos": [
+        "Se escala el caso a la consultoría bajo el issue Nro. 5636",
+        "Caro, el punto 1 quedo solucionado y ya esta corregido en el ambiente de producción\nEl punto 2 lo sigue revisando la consultoría.",
+        "Estos errores fueron corregidos y cargados con el DP del 13 de octubre.",
+        "Solución aprobada"
+    ],
+    "solucion": "",
+    "documento": "TICKET #10\n\nTÍTULO\nInconvenientes con la interface Riverdale\n\nDESCRIPCIÓN\nLa interface no está funcionando correctamente .\nLas ordenes no están trayendo los almacenes completos, unas líneas si y otras no\nLo mismo sucede con los precios algunos hace la conversión y otro no\nSegún reunión que acaba de tener Daniel Plazas, Katerine Herrera , Heiner Urrego,  Diego Torres y Rocio Diaz,  la respuesta de la consultoría es que están revisando porque no saben porque pasa esto.\nY toda esta información lo debemos solucionar de forma manual, lo cual incrementa mas aun nuestra labor que estamos repitiendo .\nSi me pudieran ayudar con que esto quede solucionado lo mas pronto posible les agradecería.\nNosotros continuaremos con el ingreso y los ajustes de forma manual  pero por favor solicito si debemos parar nos informen , porque volver a ingresar todo nuevamente seria fatal.\n\nSEGUIMIENTOS\n1. Se escala el caso a la consultoría bajo el issue Nro. 5636\n2. Caro, el punto 1 quedo solucionado y ya esta corregido en el ambiente de producción\nEl punto 2 lo sigue revisando la consultoría.\n3. Estos errores fueron corregidos y cargados con el DP del 13 de octubre.\n4. Solución aprobada\n\nSOLUCIÓN\nSin solución registrada"
+}

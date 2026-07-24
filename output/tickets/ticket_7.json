@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "titulo": "ERROR FLUJO SOLICITUD DE COMPRA",
+    "descripcion": "Genera un error al enviar la solicitud a flujo de trabajo:",
+    "seguimientos": [
+        "Por favor infórmale a Ruby y German que revisen el flujo 17 y 19 ya que se están repitiendo las categorías y por eso al comento de correr tu proceso el sistema no sabe cual flujo tomar.",
+        "Solución aprobada"
+    ],
+    "solucion": "",
+    "documento": "TICKET #7\n\nTÍTULO\nERROR FLUJO SOLICITUD DE COMPRA\n\nDESCRIPCIÓN\nGenera un error al enviar la solicitud a flujo de trabajo:\n\nSEGUIMIENTOS\n1. Por favor infórmale a Ruby y German que revisen el flujo 17 y 19 ya que se están repitiendo las categorías y por eso al comento de correr tu proceso el sistema no sabe cual flujo tomar.\n2. Solución aprobada\n\nSOLUCIÓN\nSin solución registrada"
+}

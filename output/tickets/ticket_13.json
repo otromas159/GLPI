@@ -1,0 +1,10 @@
+{
+    "id": 13,
+    "titulo": "error en el ingreso de materia prima por la aplicación",
+    "descripcion": "La apliación no sube la informacion pese a cuenta con buena cobertura para subir la informacion , en alstroemeria de Funza.",
+    "seguimientos": [
+        "Se consultó con el ingeniero responsable del tema y se encontró que la sincronización no ha presentado errores, todos los registros tienen un diario de entrada asociado a Dynamics, se adjunta reporte.\nPara todos los casos como se ha solicitado insistentemente por favor incluir los soportes."
+    ],
+    "solucion": "",
+    "documento": "TICKET #13\n\nTÍTULO\nerror en el ingreso de materia prima por la aplicación\n\nDESCRIPCIÓN\nLa apliación no sube la informacion pese a cuenta con buena cobertura para subir la informacion , en alstroemeria de Funza.\n\nSEGUIMIENTOS\n1. Se consultó con el ingeniero responsable del tema y se encontró que la sincronización no ha presentado errores, todos los registros tienen un diario de entrada asociado a Dynamics, se adjunta reporte.\nPara todos los casos como se ha solicitado insistentemente por favor incluir los soportes.\n\nSOLUCIÓN\nSin solución registrada"
+}

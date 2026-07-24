@@ -1,0 +1,13 @@
+{
+    "id": 11,
+    "titulo": "Error de interface #2",
+    "descripcion": "Buenos dias,\nYa nos paso con dos pedidos que no nos deja crear, el siguiente error, para crear el pedido  nos solita sitio de forma obligatorio, y no nos deja avanzar,\nnos podrian indicar por favor que debemos hacer, muchas gracias por su ayuda",
+    "seguimientos": [
+        "Se escala el caso a la consultoría bajo el issue 5637",
+        "Se tomó el caso y está en revisión, en aproximadamente dos horas estaremos retroalimentando nuevamente.",
+        "El problema fue solucionado, por favor revisan nuevamente y nos cuentan si ya se pueden ingresar ordenes sin problema.",
+        "Solución aprobada"
+    ],
+    "solucion": "",
+    "documento": "TICKET #11\n\nTÍTULO\nError de interface #2\n\nDESCRIPCIÓN\nBuenos dias,\nYa nos paso con dos pedidos que no nos deja crear, el siguiente error, para crear el pedido  nos solita sitio de forma obligatorio, y no nos deja avanzar,\nnos podrian indicar por favor que debemos hacer, muchas gracias por su ayuda\n\nSEGUIMIENTOS\n1. Se escala el caso a la consultoría bajo el issue 5637\n2. Se tomó el caso y está en revisión, en aproximadamente dos horas estaremos retroalimentando nuevamente.\n3. El problema fue solucionado, por favor revisan nuevamente y nos cuentan si ya se pueden ingresar ordenes sin problema.\n4. Solución aprobada\n\nSOLUCIÓN\nSin solución registrada"
+}

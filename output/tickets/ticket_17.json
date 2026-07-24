@@ -1,0 +1,11 @@
+{
+    "id": 17,
+    "titulo": "LIBERAR AL ALMACEN",
+    "descripcion": "Emilse me puede colaborar con la opción de liberar al almacén\na",
+    "seguimientos": [
+        "se escala al área de roles y permisos",
+        "Se asignó un rol que da solución al tema de manera temporal, sin embargo no se cierra el caso hasta tanto se tenga solución definitiva. Por favor verificar que en este momento ya se tenga la opción requerida."
+    ],
+    "solucion": "Se asignó Rol  definitivo que da acceso a la opción requerida, por favor verificar.",
+    "documento": "TICKET #17\n\nTÍTULO\nLIBERAR AL ALMACEN\n\nDESCRIPCIÓN\nEmilse me puede colaborar con la opción de liberar al almacén\na\n\nSEGUIMIENTOS\n1. se escala al área de roles y permisos\n2. Se asignó un rol que da solución al tema de manera temporal, sin embargo no se cierra el caso hasta tanto se tenga solución definitiva. Por favor verificar que en este momento ya se tenga la opción requerida.\n\nSOLUCIÓN\nSe asignó Rol  definitivo que da acceso a la opción requerida, por favor verificar."
+}

@@ -1,0 +1,10 @@
+{
+    "id": 10,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "La interface no está funcionando correctamente .\nLas ordenes no están trayendo los almacenes completos, unas líneas si y otras no\nLo mismo sucede con los precios algunos hace la conversión y otro no\nSegún reunión que acaba de tener Daniel Plazas, Katerine Herrera , Heiner Urrego,  Diego Torres y Rocio Diaz,  la respuesta de la consultoría es que están revisando porque no saben porque pasa esto.\nY toda esta información lo debemos solucionar de forma manual, lo cual incrementa mas aun nuestra labor que estamos repitiendo .\nSi me pudieran ayudar con que esto quede solucionado lo mas pronto posible les agradecería.\nNosotros continuaremos con el ingreso y los ajustes de forma manual  pero por favor solicito si debemos parar nos informen , porque volver a ingresar todo nuevamente seria fatal.",
+    "solucion": ""
+}

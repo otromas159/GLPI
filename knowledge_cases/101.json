@@ -1,0 +1,10 @@
+{
+    "id": 101,
+    "categoria": "General",
+    "acciones": [
+        "Creación",
+        "Validación"
+    ],
+    "problema": "Enviamos formato diligenciado con actualización de Variantes de Artículos.",
+    "solucion": ""
+}

@@ -1,0 +1,12 @@
+{
+    "id": 8,
+    "titulo": "Errores Riverdale",
+    "descripcion": "Luego de ingresar pedidos de Riverdale por integración revisamos el empaquetado y no me esta trayendo el tipo de empaque y las numeraciones de las cajas están repetidas:\nDETALLE DE LINEAS\nEMPAQUETADO\nNecesitamos por favor de carácter URGENTE que quede igual como lo teníamos en simulacro",
+    "seguimientos": [
+        "Rocio, el error fue escalado a consultoría con el numero de Issue 5634.",
+        "Rocio, el problema fue solucionado y pueden ingresar pedidos mañana sin problema, por favor tener en cuenta que las ordenes que ya estaba ingresadas se deben eliminar y volver a cargarlas desde la interfaz, cualquier duda que tengan me cuentan por favor.",
+        "Solución aprobada"
+    ],
+    "solucion": "",
+    "documento": "TICKET #8\n\nTÍTULO\nErrores Riverdale\n\nDESCRIPCIÓN\nLuego de ingresar pedidos de Riverdale por integración revisamos el empaquetado y no me esta trayendo el tipo de empaque y las numeraciones de las cajas están repetidas:\nDETALLE DE LINEAS\nEMPAQUETADO\nNecesitamos por favor de carácter URGENTE que quede igual como lo teníamos en simulacro\n\nSEGUIMIENTOS\n1. Rocio, el error fue escalado a consultoría con el numero de Issue 5634.\n2. Rocio, el problema fue solucionado y pueden ingresar pedidos mañana sin problema, por favor tener en cuenta que las ordenes que ya estaba ingresadas se deben eliminar y volver a cargarlas desde la interfaz, cualquier duda que tengan me cuentan por favor.\n3. Solución aprobada\n\nSOLUCIÓN\nSin solución registrada"
+}

@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "titulo": "se cae la red de lectura",
+    "descripcion": "el dispositivo movil de lectura de ingreso de materia prima en funza se deconecta de la red",
+    "seguimientos": [
+        "Se asigna el caso a la persona de Infraestructura para revisión.",
+        "Por favor indicar que aplicación están usando en el dispositivo ya que la foto muestra la señal excelente",
+        "No se evidencia falla en el dispositivo ni en la red WiFi en el momento. Se realizan pruebas de lectura con el aplicativo de entrada flor el cual fue actualizado a la versión 1.7 y la usuaria Mónica Sarmiento nos confirma que el dispositivo funciona correctamente, se verifica y el smartphone permite navegar a Internet sin problema. se mantendrá en monitoreo y se solicito a la usuaria que si vuelve a presentar falla se comunique inmediatamente para poder revisar.",
+        "Hemos estado insistiendo hoy para comunicarnos con la usuaria Monica Sarmiento para poder validar el comportamiento del smrtphone el día de hoy pero no hemos tenido respuesta. Tampoco hemos recibido nuevos reportes de falla",
+        "Se cierra el caso ya que después de las pruebas satisfactorias del 30 de Septiembre no se vuelve a recibir reporte de falla",
+        "Se cierra el caso ya que el evento no se vuelve a presentar"
+    ],
+    "solucion": "",
+    "documento": "TICKET #5\n\nTÍTULO\nse cae la red de lectura\n\nDESCRIPCIÓN\nel dispositivo movil de lectura de ingreso de materia prima en funza se deconecta de la red\n\nSEGUIMIENTOS\n1. Se asigna el caso a la persona de Infraestructura para revisión.\n2. Por favor indicar que aplicación están usando en el dispositivo ya que la foto muestra la señal excelente\n3. No se evidencia falla en el dispositivo ni en la red WiFi en el momento. Se realizan pruebas de lectura con el aplicativo de entrada flor el cual fue actualizado a la versión 1.7 y la usuaria Mónica Sarmiento nos confirma que el dispositivo funciona correctamente, se verifica y el smartphone permite navegar a Internet sin problema. se mantendrá en monitoreo y se solicito a la usuaria que si vuelve a presentar falla se comunique inmediatamente para poder revisar.\n4. Hemos estado insistiendo hoy para comunicarnos con la usuaria Monica Sarmiento para poder validar el comportamiento del smrtphone el día de hoy pero no hemos tenido respuesta. Tampoco hemos recibido nuevos reportes de falla\n5. Se cierra el caso ya que después de las pruebas satisfactorias del 30 de Septiembre no se vuelve a recibir reporte de falla\n6. Se cierra el caso ya que el evento no se vuelve a presentar\n\nSOLUCIÓN\nSin solución registrada"
+}

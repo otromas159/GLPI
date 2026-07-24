@@ -1,0 +1,10 @@
+{
+    "id": 12,
+    "titulo": "MOVIMIENTOS GL",
+    "descripcion": "Emilse buenas tardes\nusted es tan amable y  me activa la opción de  registrar",
+    "seguimientos": [
+        "Se escala el caso a roles y permisos"
+    ],
+    "solucion": "Se asigna el permiso solicitado, por favor verificar.",
+    "documento": "TICKET #12\n\nTÍTULO\nMOVIMIENTOS GL\n\nDESCRIPCIÓN\nEmilse buenas tardes\nusted es tan amable y  me activa la opción de  registrar\n\nSEGUIMIENTOS\n1. Se escala el caso a roles y permisos\n\nSOLUCIÓN\nSe asigna el permiso solicitado, por favor verificar."
+}
