@@ -1,0 +1,11 @@
+{
+    "id": 35,
+    "categoria": "General",
+    "acciones": [
+        "Creación",
+        "Escalamiento",
+        "Validación"
+    ],
+    "problema": "buenas tarde Ing. Daniel\nDaniel por favor nos ayuda a verificar ya que en los pedido de ventas las cantidades están saliendo con diferencias en lo que se programa para salir y luego en la reserva nos muestra mas cantidades diferentes   esto nos esta generando problemas el momento de generar el picking de ventas\npor favor nos ayuda a verificar",
+    "solucion": ""
+}

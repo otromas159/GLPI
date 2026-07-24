@@ -1,0 +1,12 @@
+{
+    "id": 30,
+    "categoria": "General",
+    "acciones": [
+        "Actualización",
+        "Escalamiento",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "Buen día\nEn el pedido de compra, por pantalla se ve un precio unitario, el importe total de ese artículo, no corresponde al valor total del producto, ejemplo en la orden 225 solicitamos 10 bolsas de Antracol por 400 gr. cada bolsa cuesta $20871. el importe total debería ser $208.710, pero se ve reflejado el valor de $ 730.845.\nAdicional a esto, en el pdf de la misma orden, el valor unitario del producto es $ 73.048. un valor diferente al que se ve por pantalla.\nAdjunto pdf del pedido confirmado e imagen de lo que se ve reflejado en pantalla",
+    "solucion": ""
+}

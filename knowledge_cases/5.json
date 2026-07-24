@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "categoria": "Infraestructura",
+    "acciones": [
+        "Actualización",
+        "Asignación",
+        "Monitoreo",
+        "Pruebas",
+        "Revisión",
+        "Validación",
+        "Verificación"
+    ],
+    "problema": "el dispositivo movil de lectura de ingreso de materia prima en funza se deconecta de la red",
+    "solucion": ""
+}

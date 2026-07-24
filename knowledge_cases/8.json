@@ -1,0 +1,10 @@
+{
+    "id": 8,
+    "categoria": "General",
+    "acciones": [
+        "Eliminación",
+        "Escalamiento"
+    ],
+    "problema": "Luego de ingresar pedidos de Riverdale por integración revisamos el empaquetado y no me esta trayendo el tipo de empaque y las numeraciones de las cajas están repetidas:\nDETALLE DE LINEAS\nEMPAQUETADO\nNecesitamos por favor de carácter URGENTE que quede igual como lo teníamos en simulacro",
+    "solucion": ""
+}

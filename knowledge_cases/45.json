@@ -1,0 +1,9 @@
+{
+    "id": 45,
+    "categoria": "Permisos",
+    "acciones": [
+        "Escalamiento"
+    ],
+    "problema": "El Rol de Auxiliar Sgsst No puede visualizar el botón \"Resultados de evaluación\" en la Gestión de los Diagnósticos\nRUTA: HSEQ>Gestión>generales> Diagnóstico",
+    "solucion": "Se realizó el ajuste solicitado para el Rol de las Auxilares de Sgsst."
+}

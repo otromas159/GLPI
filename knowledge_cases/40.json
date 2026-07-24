@@ -1,0 +1,7 @@
+{
+    "id": 40,
+    "categoria": "General",
+    "acciones": [],
+    "problema": "Hoy en la tarde detecte que en horas de la tarde algunas integraciones estaban registrando el siguiente mensaje:\n\"{\"Message\":\"This request could not be processed at this time due to system experiencing high resource utilization. Please retry the request after 60 seconds.\"}\"\nLas siguientes integraciones presentaron este inconveniente:\n- Certificado Proveedor (solo se estaba consultando los cps del dia de hoy)\n- Entrada Flor (el inconvenitente se presenta entre 2pm a 3pm, el error impide que se genere el diario de entrada)\nSe adjunta evidencia",
+    "solucion": ""
+}

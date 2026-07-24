@@ -1,0 +1,10 @@
+{
+    "id": 12,
+    "categoria": "General",
+    "acciones": [
+        "Asignación de permisos",
+        "Escalamiento"
+    ],
+    "problema": "Emilse buenas tardes\nusted es tan amable y  me activa la opción de  registrar",
+    "solucion": "Se asigna el permiso solicitado, por favor verificar."
+}

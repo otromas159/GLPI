@@ -1,0 +1,10 @@
+{
+    "id": 37,
+    "categoria": "Impresoras",
+    "acciones": [
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "Se solicita hacer la respectiva configuración de la maquina actual para imprimir los cheques que se deben generar por el sistema Dynamics en la compañía Flores de Funza.",
+    "solucion": "Se valido y las impresiones están saliendo sin problema."
+}

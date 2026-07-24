@@ -1,0 +1,10 @@
+{
+    "id": 31,
+    "categoria": "General",
+    "acciones": [
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "El día de ayer que facturamos,4 clientes no se pudo generar el Comercial Invoice\nGenera el siguiente error\nY esta factura la aduana nos esta solicitando urgente para poder aduanizar la carga\nDesafortunadamente no se que hacer y necesito su aydua urgente",
+    "solucion": ""
+}

@@ -1,0 +1,11 @@
+{
+    "id": 18,
+    "categoria": "General",
+    "acciones": [
+        "Creación",
+        "Escalamiento",
+        "Verificación"
+    ],
+    "problema": "Remito formato para creación variantes.",
+    "solucion": ""
+}

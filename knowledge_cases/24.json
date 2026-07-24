@@ -1,0 +1,11 @@
+{
+    "id": 24,
+    "categoria": "General",
+    "acciones": [
+        "Actualización",
+        "Configuración",
+        "Revisión"
+    ],
+    "problema": "Al realizar el profesiograma, no se puede ver el \"número de trabajadores\" para el caso en que la Actividad asociada, en la estructura de centros de trabajo, sea realizada por un \"Contratista\"\nHSEQ>GESTION>PROFESIOGRAMA\nSe confirmó desde el módulo de GH, que el trabajo (ej.  FZA-C-Operario Adecuación de suelos para siembra) tuviera puestos asignados",
+    "solucion": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": 19,
+    "categoria": "Permisos",
+    "acciones": [
+        "Asignación de permisos",
+        "Escalamiento"
+    ],
+    "problema": "Daniel:\nAntes de subir el DP esta mañana, tenia el acceso normal a crear una nueva solicitud como muestra el pantallazo, hice la solicitud de compra 101 de prueba,  luego de subir el DP, cuando fui a modificarla ya no tenia los accesos.  Le consulte a Emilse y ella me dice que no toco nada de mis permisos.",
+    "solucion": "Se verificaron los permisos y se encuentran bien, el inconveniente se presentó con una solicitud en particular, por tanto no es un tema de permisos."
+}

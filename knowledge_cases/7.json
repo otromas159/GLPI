@@ -1,0 +1,9 @@
+{
+    "id": 7,
+    "categoria": "General",
+    "acciones": [
+        "Revisión"
+    ],
+    "problema": "Genera un error al enviar la solicitud a flujo de trabajo:",
+    "solucion": ""
+}

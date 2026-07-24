@@ -1,0 +1,9 @@
+{
+    "id": 28,
+    "categoria": "Dynamics",
+    "acciones": [
+        "Escalamiento"
+    ],
+    "problema": "Eventualmente se ha evidenciado fallas intermitentes con la conexión hacia Dynamics 365 ambiente productivo, esto se evidencia con error 400 y error 500, en el momento en que se presenta se han realizado pruebas con otras paginas externas como la de el tiempo.com y funcionan correctamente. Cabe aclarar que esto se esta reportando con varios usuarios como Kioskos, tablets y smarthphone, por otro lado se presenta en tiempos aleatorios durante la jornada laboral (10 am. 12 medio día, 7 pm) de un momento a otro la conexión vuelve a funcionar correctamente, aun así cuando la conexión falla saca a los usuarios y los hace volver a logearse.",
+    "solucion": ""
+}

@@ -1,0 +1,10 @@
+{
+    "id": 3,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "Buen Día:\nTenemos inconveniente para visualizar y poder descargar los Pedidos de Compra, por ende no hemos podido remitir ningún pedido a proveedores ni internamente.\nA continuación envío imagen del error que nos arroja.",
+    "solucion": ""
+}

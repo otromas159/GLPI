@@ -1,0 +1,15 @@
+{
+    "id": 41,
+    "categoria": "Correo",
+    "acciones": [
+        "Actualización",
+        "Asignación",
+        "Cierre",
+        "Escalamiento",
+        "Pruebas",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "Aclaración - Se reporta por medio de correo el día sábado 2 de octubre y se resuelve más tarde ese mismo día. Se hace seguimiento del comportamiento del caso durante el domingo 3 y lunes 4\nContextualización del inconveniente en el día reportado:\nSe nos están presentando estos casos en los que para algunos reportes, cuando una transacción adquiere una nueva “dimensión” este trae tanto el dato antiguo como el dato nuevo, en lugar de “reemplazar” el dato “vencido”…. Me confirmas porfa como proceder.\nEjemplo PFVZ-000000177 – Estos de aquí generan 2 líneas de cada consumo.\nActualización sobre el asunto el 2 de octubre:\nSe logra estabilizar la sincronización y llevar los tiempos de actualización a poco más de hora y media.\nActualización 3 de octubre:\nSe verifica el funcionamiento sobre procesos en la finca, se actualizan junto a algunos usuarios el dato que previamente generaba inconsistencias y se contrasta con el cargue a tiempo real de los pedidos de venta. Se evidencia que:\na) No se generan nuevamente las duplicidades.\nb) Se puede incluir un parámetro de control sobre las ventas sin empaquetado para discriminar las cancelaciones parciales.\nc) Se tiene una diferencia de tiempos de actualización poco mayor a 1 hora (desde que se carga una venta hasta que se ve en el reporte).\nActualización 4 de octubre:\nLos usuarios reportan irregularidades en los tiempos de actualización, se suponía que se iba a actualizar cada 15 minutos, tras la sincronización se recibe comunicado indicando que se actualizaría cada hora para evitar conflictos en la actualización. No obstante, habiendo pasado casi 3 horas y media desde la asignación de guías (algunas desde las 12 am), el reporte no reflejó el dato sino hasta poco después de las 3, se informa al equipo de soporte y se evalúa con consultoría.\nActualización 5 de octubre:\nSe notifica que se lograron bajar los tiempos a 30 minutos obteniendo datos estábles, se valida corriendo el dato a las 12:40 y refleja sin inconvenientes una modificación ejecutada en un pedido de venta de las 12:10.\nEl equipo de soporte indica que en teoría se podría actualizar cada 20 y se intentará en los días posteriores.",
+    "solucion": ""
+}

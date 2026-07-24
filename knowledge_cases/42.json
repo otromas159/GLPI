@@ -1,0 +1,12 @@
+{
+    "id": 42,
+    "categoria": "Permisos",
+    "acciones": [
+        "Asignación de permisos",
+        "Escalamiento",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "se solicita  el permiso para que un lider funcional tenga el acceso para la eliminación de trabajos que presenten errores y bloquen el proceso en esta ruta.",
+    "solucion": "Se creo nuevo rol y se asignó el permiso a Wilson Yanquen, por favor verificar."
+}

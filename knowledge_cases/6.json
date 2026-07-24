@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "categoria": "General",
+    "acciones": [
+        "Configuración",
+        "Escalamiento",
+        "Pruebas",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "No están pasando los precios de los acuerdos comerciales a las solicitudes de Compra.\nAnexo pantallazos:",
+    "solucion": ""
+}

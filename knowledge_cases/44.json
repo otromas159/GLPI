@@ -1,0 +1,9 @@
+{
+    "id": 44,
+    "categoria": "General",
+    "acciones": [
+        "Revisión"
+    ],
+    "problema": "Al facturar algunos Albaranes nos damos cuenta que se refleja descuentos no asignados en algunos casos. adjunto ejemplo.",
+    "solucion": ""
+}

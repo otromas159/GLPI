@@ -1,0 +1,13 @@
+{
+    "id": 27,
+    "categoria": "Permisos",
+    "acciones": [
+        "Creación",
+        "Escalamiento",
+        "Pruebas",
+        "Revisión",
+        "Verificación"
+    ],
+    "problema": "El Rol del Coordinador sistema de gestión No puede acceder en HSEQ, para visualizaren configuración:\n\"Actividades\" en Estructura de centros de trabajo, ni,\n\"Mecanismos de incidentes\" en Eventualidades\nRUTA:\nHSEQ\nEstructura de centros de trabajo>Actividades\nHSEQ>Configuración>Eventualidades>Mecanismos de incidentes",
+    "solucion": "Se verifica en ambiente productivo y ya está corregido el tema."
+}

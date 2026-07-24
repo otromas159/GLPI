@@ -1,0 +1,10 @@
+{
+    "id": 23,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Pruebas"
+    ],
+    "problema": "Cuando intentamos hacer la cancelación del albaran el sistema nos genera el siguiente error y nos tiene bloqueado el proceso",
+    "solucion": ""
+}

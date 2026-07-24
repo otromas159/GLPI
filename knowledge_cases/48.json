@@ -1,0 +1,11 @@
+{
+    "id": 48,
+    "categoria": "Permisos",
+    "acciones": [
+        "Actualización",
+        "Asignación",
+        "Verificación"
+    ],
+    "problema": "Las Aerolíneas Qatar y Emirates no tienen diligenciado el campo Digito de verificación.",
+    "solucion": ""
+}

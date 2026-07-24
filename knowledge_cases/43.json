@@ -1,0 +1,10 @@
+{
+    "id": 43,
+    "categoria": "Permisos",
+    "acciones": [
+        "Actualización",
+        "Escalamiento"
+    ],
+    "problema": "El día de ayer se hace seguimiento al lote de la TRM a las 9 pm , en este horario ya debería estar ingresada la TRM en el sistema pero se evidencia que no se ha ingresado ningún registro. Se corre el lote de manera manual y el registro se ingresa correctamente. Este caso ya fue reportado vía mail a desarrollo y consultoría de SRF.",
+    "solucion": ""
+}

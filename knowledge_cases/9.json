@@ -1,0 +1,10 @@
+{
+    "id": 9,
+    "categoria": "Infraestructura",
+    "acciones": [
+        "Asignación de permisos",
+        "Escalamiento"
+    ],
+    "problema": "por favor verificar en los pedidos de compra la opción terceros Colombia, no está actualizando de acuerdo al Nit, o Cédula, debería aparecer el nombre del contratista y aparece como no predeterminado.\nadjunto archivo de error",
+    "solucion": "Se eliminó la cuenta y se volvió a crear ya que no estaba tomando de manera correcta los permisos, por favor verificar."
+}

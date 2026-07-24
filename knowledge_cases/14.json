@@ -1,0 +1,10 @@
+{
+    "id": 14,
+    "categoria": "Dynamics",
+    "acciones": [
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "Buena tarde Daniel, se ha evidenciado demasiada lentitud en el cargue de información de los reportes de inventarios, toda la información sube continuamente en Dynamics pero en el reporte no, se consultó el reporte por primera vez a las 11:00 am y siendo ahora las 4:50 pm esta información no se ha actualizado, adjunto seguimiento.\nComo se puede evidenciar, en el reporte aparece como si no se hubiera ingresado nada el día de hoy, y esta información es vital para hacerle continuo seguimiento a los inventarios de las distintas ubicaciones, quedo atento.\nCordialmente,\nDavid V.",
+    "solucion": ""
+}

@@ -1,0 +1,12 @@
+{
+    "id": 17,
+    "categoria": "General",
+    "acciones": [
+        "Asignación",
+        "Asignación de permisos",
+        "Escalamiento",
+        "Verificación"
+    ],
+    "problema": "Emilse me puede colaborar con la opción de liberar al almacén\na",
+    "solucion": "Se asignó Rol  definitivo que da acceso a la opción requerida, por favor verificar."
+}

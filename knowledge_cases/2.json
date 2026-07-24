@@ -1,0 +1,13 @@
+{
+    "id": 2,
+    "categoria": "General",
+    "acciones": [
+        "Configuración",
+        "Creación",
+        "Escalamiento",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "Al crear pedidos planificados manuales el sistema esta trayendo una línea adicional a la creada originalmente \"Duplicando automáticamente\"\nPor favor me ayudas,",
+    "solucion": ""
+}

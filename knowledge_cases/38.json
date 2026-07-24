@@ -1,0 +1,11 @@
+{
+    "id": 38,
+    "categoria": "General",
+    "acciones": [
+        "Actualización",
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "Al revisar las facturas electrónicas emitidas el día de ayer , se evidencio que las notas crédito no están trayendo correctamente los subtotales, cuando se utilizan mas de tres decimales.\nfactura 77730\nAl revisar el pedido de venta esta diligenciado correctamente, y el comercial Invoice también sale correcto.  Se adjuntó  el comercial Invoice\nPedido de Venta PVZ00000000018\nY la factura No.\nEste Issue ya se había reportado.",
+    "solucion": ""
+}

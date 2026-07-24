@@ -1,0 +1,11 @@
+{
+    "id": 32,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Validación",
+        "Verificación"
+    ],
+    "problema": "En la ruta NOMINA COLOMBIA / CONTRATOS / En el campo de dimensiones Financieras Terceros Colombia, al consultar la información NO corresponde el número de identidad que  aparece relacionado con el real de los contratos. Esto esta pasando con todos los contratos.\nEsta tomando otros números de documento de identidad.\nEjemplo: Número Real 52785545  Aparece 21114048.",
+    "solucion": ""
+}

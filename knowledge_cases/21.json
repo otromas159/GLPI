@@ -1,0 +1,9 @@
+{
+    "id": 21,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento"
+    ],
+    "problema": "Algunos pedidos de venta en la interface de river no generan unidades dentro de las LMat, se adjunto foto del pedido que se genero. Este pedido se corrigió manualmente pues es un pedido real y lo necesitamos y este proceso no lo permite planificar. Les agradezco lo repliquen en otro ambiente con la interface para poder solucionar prontamente este inconveniente.",
+    "solucion": ""
+}

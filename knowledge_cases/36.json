@@ -1,0 +1,10 @@
+{
+    "id": 36,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Validación"
+    ],
+    "problema": "Para los tramites de pagos en el ambiente operativo de la sociedad Flores de Funza, se presentaron los siguientes inconvenientes:\n1- Al generar el archivo plano del banco de Colombia, lo genero sin la cuenta del girador y falta la letra D que indica el tipo de cuenta.\n2- Hubo rechazo por parte del banco y se debe a que la identificación del tercero lo lleva con el digito de verificación y no debe llevarlo.\n3- En este intento genero rechazo el banco donde indica que la cuenta del tercero no esta inscrita; Para este tema se valida y la cuenta si esta inscrita y ya ha tenido pagos recurrentes el tercero con esta cuenta en el otro sistema (siesa).\n4- Al tratar de generar pagos con cheques genero el siguiente error:\nQuedo pendiente,\nJOSE A. GARZON\nLíder Funcional Finanzas",
+    "solucion": ""
+}

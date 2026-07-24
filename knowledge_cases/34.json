@@ -1,0 +1,10 @@
+{
+    "id": 34,
+    "categoria": "General",
+    "acciones": [
+        "Escalamiento",
+        "Validación"
+    ],
+    "problema": "Al realizar la liquidación de vacaciones en la Empresa de Nómina BQE, periodo BQE_ADC_1-Oct-2021-BQE con el ID FZ-0000420, en la planilla de nómina no se evidencia el número de dias correspondiente a la liquidación. Está apareciendo un número errado.",
+    "solucion": ""
+}

@@ -1,0 +1,15 @@
+{
+    "id": 46,
+    "categoria": "General",
+    "acciones": [
+        "Actualización",
+        "Cierre",
+        "Creación",
+        "Escalamiento",
+        "Pruebas",
+        "Revisión",
+        "Validación"
+    ],
+    "problema": "Muy buenos días a todos\nAl generara el reporte de \"Faltante materia prima e insumos\", se identifican 3 novedades.\n1) Tiempos de actualización tras diligenciar los parámetros de consulta. Al generar una consulta, el reporte tarda entre 7 y 10 minutos en cargar la información requerida.\n2) Campo \"Nombre de producto\", En las versiones de prueba, el reporte generaba tanto los nombres de producto para el producto terminado como para los componentes de la L.MAT tal como lo refleja la imagen adjunta.\n(como se en simulacro)\nPero al generar el dato en el productivo, solo trae el nombre para los productos terminados, no para los artículos que componen la L.MAT\n3) Estados de ejecución y de consumo del producto:\nEl reporte debería reflejar solo los consumos de material que están pendientes pero en este momento refleja tanto lo que ya está vendido como lo pendiente por consumir.\nAgradezco revisar las reglas que se están aplicando en el reporte de simulacro para nivelarlo al productivo (en el de simulacro los 3 temas mencionados estaban corregidos).",
+    "solucion": ""
+}

@@ -1,0 +1,11 @@
+{
+    "id": 39,
+    "categoria": "General",
+    "acciones": [
+        "Actualización",
+        "Escalamiento",
+        "Revisión"
+    ],
+    "problema": "1. No está diligenciando el campo de # de Resolución de Facturación.\n2. Cantidades erradas en algunos casos",
+    "solucion": ""
+}
